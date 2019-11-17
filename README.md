@@ -1,1 +1,2 @@
 # odoo
+odooo check repos
